@@ -1,0 +1,9 @@
+https://github.com/Juangr2735/Copia-Base-de-datos--Material-didactico.git
+
+Se encuentran 4 archivos en este repositorio. el primer archivo es el .gitattributes
+que es un archivo con el que definimos los tipos de archivos para subir los que pesan mas. 
+-Aprendiz_Nuevabt.sql es la base de datos eliminada ya subida esta no pesa mucho.
+-aprendiz_drupal.sql es la base de datos mas pesada por ende tocó usar programas alternos
+ya que git tiene un tope para subir achivos. Esta base aun sigue en el wordpress
+-Backup- 10.1.2020 Es la copia total de el sitio. pesa mas de 1 GB. Es un archivo comprimido
+que se puede descomprimir con WinRar
