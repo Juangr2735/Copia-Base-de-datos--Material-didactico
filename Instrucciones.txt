@@ -7,3 +7,6 @@ que es un archivo con el que definimos los tipos de archivos para subir los que 
 ya que git tiene un tope para subir achivos. Esta base aun sigue en el wordpress
 -Backup- 10.1.2020 Es la copia total de el sitio. pesa mas de 1 GB. Es un archivo comprimido
 que se puede descomprimir con WinRar
+
+-Esta copia tambien se puede encontrar en el cPanel dentro de todos los archivos que están en
+la plataforma
